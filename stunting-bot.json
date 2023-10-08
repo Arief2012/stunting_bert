@@ -1,0 +1,37 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "hallo",
+                "hai",
+                "halo",
+                "hei",
+                "hi",
+                "hy",
+                "helo"
+            ],
+            "responses": [
+                "Halo! Stuntguard disini. Ada yang bisa saya bantu?",
+                "Hai! Ada yang bisa saya bantu tentang seputar pencegahan stunting?",
+                "Hai! Stuntguard disini. Ada yang bisa saya bantu mengenai info stunting pada balita?"
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "Matur nuwun",
+                "makasih",
+                "Terimakasih"
+            ],
+            "responses": [
+                "Sama-sama, senang bisa membantu anda!",
+                "Terima kasih kembali, semoga informasi yang kami berikan bermanfaat.",
+                "Tidak ada masalah, senang bisa memberikan bantuan.",
+                "Senang bisa membantu, silakan hubungi kami lagi jika ada pertanyaan lain."
+            ]
+        }
+    ]
+}
