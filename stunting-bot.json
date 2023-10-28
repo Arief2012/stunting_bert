@@ -43,11 +43,11 @@
             "responses": [
                 "Sampai jumpa lagi. Jangan ragu untuk kembali jika ada pertanyaan tentang stunting",
                 "Sampai jumpa. Semoga informasi yang kami berikan bermanfaat.",
-                "Bye, senang dapat membantu."
+                "Senang dapat membantu."
             ]
         },
         {
-            "tag": "pertanyaan-negatif",
+            "tag": "pertanyaan_umum",
             "patterns": [
                 "Saya ingin memesan pizza",
                 "Cari saya tiket pesawat ke Jakarta",
@@ -60,11 +60,11 @@
             ]
             },
         {
-            "tag": "pengertian-stunting",
+            "tag": "pengertian_stunting",
             "patterns": [
                 "Apa pengertian stunting?",
                 "Saya ingin tahu tentang stunting",
-                "stunting adalah",
+                "Mengapa anak bisa mengalami stunting?",
                 "Cara mengenali stunting",
                 "Bagaimana tahu anak stunting?"
             ],
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "tag": "pencegahan-stunting",
+            "tag": "pencegahan_stunting",
             "patterns": [
                 "Bagaimana cara mencegah stunting?",
                 "Pencegahan stunting pada balita",
@@ -86,7 +86,7 @@
             ]
         },
         {
-            "tag": "gejala-stunting",
+            "tag": "gejala_stunting",
             "patterns": [
                 "Apa gejala stunting pada anak?",
                 "Cara mengenali stunting",
