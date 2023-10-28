@@ -52,13 +52,11 @@
                 "Saya ingin memesan pizza",
                 "Cari saya tiket pesawat ke Jakarta",
                 "Berapa harga kulkas?",
-                "Bisakah Anda membantu saya dengan masalah listrik?",
-                "bumi sebenarnya bulat atau datar"
+                "Bisakah Anda membantu saya dengan masalah listrik?"
             ],
             "responses": [
                 "Maaf, layanan kami khusus untuk informasi mengenai stunting. Silakan tanyakan pertanyaan tentang stunting.",
-                "Saya mohon maaf, kami fokus pada informasi seputar stunting. Silakan ajukan pertanyaan tentang stunting.",
-                "Mohon maaf, silahkan ulangi pertanyaan anda yang berkaitan dengan stunting"
+                "Saya mohon maaf, kami fokus pada informasi seputar stunting. Silakan ajukan pertanyaan tentang stunting."
             ]
             },
         {
