@@ -12,25 +12,184 @@
                 "helo"
             ],
             "responses": [
-                "Halo! Stuntguard disini. Ada yang bisa saya bantu?",
-                "Hai! Ada yang bisa saya bantu tentang seputar pencegahan stunting?",
-                "Hai! Stuntguard disini. Ada yang bisa saya bantu mengenai info stunting pada balita?"
+                "Hay, Ada yang bisa saya bantu?",
+                "Hello, Ada yang bisa saya bantu mengenai infomasi tentang Stunting?",
+                "Hai, apa kabar. Ada yang dapat saya bantu tentang informasi tentang stunting?"
             ]
         },
         {
             "tag": "thanks",
             "patterns": [
-                "Thanks",
-                "Thank you",
-                "Matur nuwun",
+                "Terimakasih",
                 "makasih",
-                "Terimakasih"
+                "Terimakasih banyak"
             ],
             "responses": [
                 "Sama-sama, senang bisa membantu anda!",
                 "Terima kasih kembali, semoga informasi yang kami berikan bermanfaat.",
                 "Tidak ada masalah, senang bisa memberikan bantuan.",
                 "Senang bisa membantu, silakan hubungi kami lagi jika ada pertanyaan lain."
+            ]
+        },
+        {
+            "tag": "Goodbye",
+            "patterns": [
+                "Sampai jumpa",
+                "Goodbye",
+                "Dadah",
+                "Selamat tinggal",
+                "Bye"
+            ],
+            "responses": [
+                "Sampai jumpa lagi. Jangan ragu untuk kembali jika ada pertanyaan tentang stunting",
+                "Sampai jumpa. Semoga informasi yang kami berikan bermanfaat.",
+                "Bye, senang dapat membantu."
+            ]
+        },
+        {
+            "tag": "pengertian-stunting",
+            "patterns": [
+                "Apa pengertian stunting?",
+                "Saya ingin tahu tentang stunting",
+                "stunting adalah",
+                "apa yang dimaksud dengan stunting",
+                "stunting merupakan"
+            ],
+            "responses": [
+                "Stunting adalah gangguan pertumbuhan dan perkembangan anak akibat kekurangan gizi kronis dan infeksi berulang, yang ditandai dengan panjang atau tinggi badannya berada di bawah standar. Stunting dapat terjadi mulai janin masih dalam kandungan dan baru nampak saat anak berusia dua tahun."
+            ]
+        },
+        {
+            "tag": "pencegahan-stunting",
+            "patterns": [
+                "Bagaimana cara mencegah stunting?",
+                "Pencegahan stunting pada balita",
+                "Apa langkah-langkah pencegahan stunting",
+                "Cara mencegah stunting"
+            ],
+            "responses": [
+                "Anda dapat mencegah stunting pada anak balita dengan memberikan makanan bergizi, perhatian yang cukup terhadap kesehatan dan kebersihan, serta berkonsultasi dengan tenaga medis untuk pemantauan pertumbuhan anak secara teratur.",
+                "Pencegahan stunting melibatkan asupan gizi yang cukup, imunisasi, kebersihan, dan pemantauan pertumbuhan anak secara teratur. Jangan ragu untuk bertanya jika Anda memerlukan informasi lebih lanjut."
+            ]
+        },
+        {
+            "tag": "gejala-stunting",
+            "patterns": [
+                "Apa gejala stunting pada anak?",
+                "Cara mengenali stunting",
+                "Tanda-tanda stunting",
+                "Bagaimana tahu anak stunting?"
+            ],
+            "responses": [
+                "Stunting dapat dikenali melalui gejala berupa tinggi badan anak yang lebih pendek dari yang seharusnya, proporsi tubuh yang tampak normal tetapi anak terlihat lebih muda atau kecil untuk usianya, berat badan yang rendah untuk usianya, dan pertumbuhan tulang yang tertunda. Gejala ini mengindikasikan masalah gizi yang serius yang dapat memengaruhi perkembangan fisik dan kognitif anak. Pengenalan dan penanganan stunting sejak dini sangat penting untuk memastikan anak tumbuh dan berkembang dengan baik."
+            ]
+        },
+        {
+            "tag": "Dampak_stunting",
+            "patterns": [
+                "Apa saja dampak dari stunting?",
+                "Dampak jangka panjang stunting",
+                "Apa dampak buruk dari stunting?",
+                "Dampak dari stunting adalah"
+            ],
+            "responses": [
+                "tunting yang tidak ditangani dengan baik sedini mungkin dapat memiliki dampak jangka panjang yang signifikan pada anak. Dampak-dampak tersebut meliputi kesulitan belajar dan perkembangan mental, sistem kekebalan tubuh yang lemah, peningkatan risiko penyakit metabolik seperti obesitas dan diabetes saat dewasa, serta risiko terhadap masalah kardiovaskular seperti penyakit jantung."
+            ]
+        },
+        {
+            "tag": "Penyebab_stunting",
+            "patterns": [
+                "Faktor penyebab stunting apa saja?",
+                "Apa saja penyebab dari stunting?",
+                "Faktor apa saja yang menyebabkan stunting?",
+                "Apa faktor penyebab stunting?"
+            ],
+            "responses": [
+                "Stunting, yaitu kondisi gangguan pertumbuhan fisik dan perkembangan anak, disebabkan oleh beragam faktor. Beberapa faktor utama meliputi: \n1.Kekurangan Gizi: Kurangnya asupan vitamin, mineral, keragaman pangan, dan protein hewani pada ibu dan anak. \n2. Ibu yang Kurang Nutrisi: Kondisi gizi buruk pada ibu selama kehamilan dan laktasi berdampak pada pertumbuhan anak.\n3.Infeksi: Masalah kesehatan seperti diare, infeksi saluran pernafasan, dan kecacingan dapat menghambat pertumbuhan anak. \n4.Faktor Sosio-Ekonomi: Pendapatan rendah keluarga memengaruhi akses terhadap makanan bergizi. \n5.Pelayanan Kesehatan Terbatas: Keterbatasan akses ke layanan kesehatan, sanitasi, dan air bersih berkontribusi pada stunting. \nFaktor Lain: Infeksi pada ibu, kehamilan remaja, gangguan mental pada ibu, jarak kelahiran anak yang pendek, dan hipertensi juga memengaruhi stunting."
+            ]
+        },
+        {
+            "tag": "imunisasi",
+            "patterns": [
+                "Imunisasi adalah ",
+                "Pentingkah imunisasi untuk anak?",
+                "Imunisasi untuk stunting",
+                "Apa manfaat imunisasi?"
+            ],
+            "responses": [
+                "Imunisasi merupakan salah satu tindakan untuk meningkatkan kekebalan tubuh terhadap suatu penyakit. Imunisasi secara garis besar memiliki tiga manfaat, yakni melindungi anak dari risiko kematian, efektif mencegah penyakit, dan melindungi orang lain. Dengan demikian, imunisasi penting dilakukan bagi anak-anak. Setelah mendapatkan imunisasi, sistem imun anak bekerja lebih baik melawan bakteri, virus, serta kuman penyebab penyakit."
+            ]
+        },
+        {
+            "tag": "peran_asi",
+            "patterns": [
+                "Seberapa penting asi dalam pencegahan stunting?",
+                "Apakah asi penting?",
+                "Apa kandungan pada asi?",
+                "Bagaimana peran asi untuk pencegahan stunting?"
+            ],
+            "responses": [
+                "ASI memiliki peran yang sangat penting dalam pencegahan stunting pada anak. ASI mengandung nutrisi lengkap dan seimbang yaitu protein, lemak, karbohidrat, vitamin, dan mineral yang dibutuhkan untuk pertumbuhan tulang, otot, dan perkembangan otak yang optimal. Selain itu, ASI juga mengandung antibodi yang membantu melindungi anak dari infeksi, yang dapat menghambat pertumbuhan jika terjadi infeksi berulang. Karena itulah, memberikan ASI eksklusif selama enam bulan pertama kehidupan anak dan terus memberikan ASI bersama makanan pendamping hingga usia dua tahun atau lebih sangat penting untuk mencegah stunting dan memastikan pertumbuhan yang sehat."
+            ]
+        },
+        {
+            "tag": "Asi_eksklusif",
+            "patterns": [
+                "Asi eksklusif adalah",
+                "Pengertian asi eksklusif ",
+                "Asi eksklusif itu apa?",
+                "Apa yang dimaksud dengan asi eksklusif?"
+            ],
+            "responses": [
+                "ASI eksklusif adalah pemberian ASI tanpa suplementasi makanan maupun minuman lain kecuali obat, yang diberikan langsung dari ibu kepada bayi selama 6 bulan pertama kehidupan. ASI eksklusif sangat penting bagi perkembangan dan pertumbuhan bayi hingga besar. ASI mengandung nutrisi yang cukup banyak dan bersifat spesifik pada setiap ibu. Beberapa contoh diantaranya, kolostrum (ASI pada hari 1-5) kaya protein, laktosa ASI sebagai sumber karbohidrat diserap lebih baik dibanding yang terdapat di dalam susu formula. ASI juga dapat mentransport nutrien, meningkatkan imunitas, merusak patogen dan berpengaruh pada system biokimiawi tubuh manusia. "
+            ]
+        },
+        {
+            "tag": "MP-ASI",
+            "patterns": [
+                "Apa itu MP-ASI?",
+                "Apa pengertian makanan pendamping air susu ibu atau MP_ASI?",
+                "Apa yang dimaksud MP-ASI?",
+                "MP-ASI adalah"
+            ],
+            "responses": [
+                "Makanan Pendamping Air Susu Ibu (MP-ASI) merupakan makanan yang diberikan kepada bayi selain ASI sebagai pendamping ASI guna menunjang pertumbuhan pada bayi. Pemberian MP-ASI dilakukan secara bertahap, artinya mulai dari makanan yang bertekstur lembut, semi-lembut, dan makanan padat untuk usia di atasnya. MP-ASI dapat berupa makanan padat seperti puree buah, sayuran, nasi, atau sereal yang sesuai dengan usia dan kemampuan makan bayi. Pemberian MP-ASI dilakukan bersamaan dengan ASI untuk memastikan bahwa bayi masih menerima manfaat nutrisi dari ASI sambil mulai mengenalkan mereka pada makanan padat. Tujuan dari pemberian MP-ASI adalah untuk membantu bayi memenuhi kebutuhan nutrisinya dan memungkinkan pertumbuhan dan perkembangan yang sehat."
+            ]
+        },
+        {
+            "tag": "Gizi_saat_kehamilan",
+            "patterns": [
+                "Apakah gizi saat hamil penting?",
+                "Apa saja makanan bergizi saat hamil?",
+                "Seberapa penting gizi saat kehamilan?",
+                "Mengapa gizi saat hamil penting?"
+            ],
+            "responses": [
+                "Gizi selama kehamilan merupakan salah satu kunci penting dalam pencegahan stunting pada anak. Kekurangan gizi selama kehamilan dapat menghambat pertumbuhan janin, meningkatkan risiko stunting, dan mempengaruhi perkembangan otak serta kesehatan anak. Pada saat kehamilan sebaiknya mengonsumsi makanan bergizi seperti sayuran berdaun hijau, daging merah, ikan, telur, kacang-kacangan, susu, dan produk susu. Makanan ini mengandung asam folat, zat besi, kalsium, protein, serta vitamin dan mineral penting yang mendukung pertumbuhan janin yang sehat."
+            ]
+        },
+        {
+            "tag": "Pola_makan",
+            "patterns": [
+                "Bagaimana pola makan yang baik dapat membantu mencegah stunting pada anak balita?",
+                "Bagaimana Pola makan yang baik?",
+                "Pola makan untuk mencegah stunting.",
+                "Cara mengatur pola makan?"
+            ],
+            "responses": [
+                "Pola makan yang tepat untuk mencegah stunting pada anak balita adalah pola makan yang seimbang dan kaya akan nutrisi. Variasi makanan, seperti berbagai jenis buah-buahan, sayuran, biji-bijian, dan protein, sangat dianjurkan untuk memastikan anak mendapatkan semua nutrisi yang dibutuhkan. Hindari makanan cepat saji dan makanan tinggi gula, serta pastikan porsi makanan sesuai dengan kebutuhan anak. Dengan menjaga pola makan yang sehat dapat membantu anak tumbuh dengan baik dan mencegah stunting yang dapat memengaruhi perkembangan fisik dan mental mereka."
+            ]
+        },
+        {
+            "tag": "Sulit_makan",
+            "patterns": [
+                "Bagaimana mengatasi anak yang sulit makan?",
+                "Cara agar anak tidak sulit makan",
+                "Anak sulit makan kenapa?",
+                "Mengatasi anak sulit makan."
+            ],
+            "responses": [
+                "Mengatasi anak yang sulit makan dapat dilakukan dengan pendekatan hati-hati dan sabar. Pertama, identifikasi penyebabnya, seperti masalah fisik atau psikologis pada. Ciptakan lingkungan makan yang positif dan menyenangkan. Berikan pilihan makanan seimbang, biarkan anak berpartisipasi dalam memilih, dan hindari tekanan berlebihan. Ingatlah bahwa setiap anak unik, dan perubahan pola makan memerlukan waktu. Kesabaran dan konsistensi adalah kunci."
             ]
         }
     ]
