@@ -47,13 +47,28 @@
             ]
         },
         {
+            "tag": "pertanyaan-negatif",
+            "patterns": [
+                "Saya ingin memesan pizza",
+                "Cari saya tiket pesawat ke Jakarta",
+                "Berapa harga kulkas?",
+                "Bisakah Anda membantu saya dengan masalah listrik?",
+                "bumi sebenarnya bulat atau datar"
+            ],
+            "responses": [
+                "Maaf, layanan kami khusus untuk informasi mengenai stunting. Silakan tanyakan pertanyaan tentang stunting.",
+                "Saya mohon maaf, kami fokus pada informasi seputar stunting. Silakan ajukan pertanyaan tentang stunting.",
+                "Mohon maaf, silahkan ulangi pertanyaan anda yang berkaitan dengan stunting"
+            ]
+            },
+        {
             "tag": "pengertian-stunting",
             "patterns": [
                 "Apa pengertian stunting?",
                 "Saya ingin tahu tentang stunting",
                 "stunting adalah",
-                "apa yang dimaksud dengan stunting",
-                "stunting merupakan"
+                "Cara mengenali stunting",
+                "Bagaimana tahu anak stunting?"
             ],
             "responses": [
                 "Stunting adalah gangguan pertumbuhan dan perkembangan anak akibat kekurangan gizi kronis dan infeksi berulang, yang ditandai dengan panjang atau tinggi badannya berada di bawah standar. Stunting dapat terjadi mulai janin masih dalam kandungan dan baru nampak saat anak berusia dua tahun."
