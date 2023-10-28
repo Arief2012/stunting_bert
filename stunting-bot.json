@@ -47,19 +47,6 @@
             ]
         },
         {
-            "tag": "pertanyaan_umum",
-            "patterns": [
-                "Saya ingin memesan pizza",
-                "Cari saya tiket pesawat ke Jakarta",
-                "Berapa harga kulkas?",
-                "Bisakah Anda membantu saya dengan masalah listrik?"
-            ],
-            "responses": [
-                "Maaf, layanan kami khusus untuk informasi mengenai stunting. Silakan tanyakan pertanyaan tentang stunting.",
-                "Saya mohon maaf, kami fokus pada informasi seputar stunting. Silakan ajukan pertanyaan tentang stunting."
-            ]
-            },
-        {
             "tag": "pengertian_stunting",
             "patterns": [
                 "Apa pengertian stunting?",
