@@ -93,7 +93,7 @@
                 "Dampak dari stunting adalah"
             ],
             "responses": [
-                "tunting yang tidak ditangani dengan baik sedini mungkin dapat memiliki dampak jangka panjang yang signifikan pada anak. Dampak-dampak tersebut meliputi kesulitan belajar dan perkembangan mental, sistem kekebalan tubuh yang lemah, peningkatan risiko penyakit metabolik seperti obesitas dan diabetes saat dewasa, serta risiko terhadap masalah kardiovaskular seperti penyakit jantung."
+                "Stunting yang tidak ditangani dengan baik akan memiliki dampak jangka panjang yang signifikan pada anak. Dampak-dampak tersebut meliputi kesulitan belajar dan perkembangan mental, sistem kekebalan tubuh yang lemah, peningkatan risiko penyakit metabolik seperti obesitas dan diabetes saat dewasa, serta risiko terhadap masalah kardiovaskular seperti penyakit jantung."
             ]
         },
         {
@@ -409,7 +409,7 @@
                 "Apa peran pemerintah dalam mendukung program pencegahan stunting di tingkat nasional?",
                 "Bagaimana kebijakan pemerintah dapat berkontribusi pada penanggulangan stunting?",
                 "Apakah terdapat kebijakan spesifik yang ditetapkan oleh pemerintah untuk meningkatkan gizi anak dan mencegah stunting?",
-                "Apa upaya konkret yang telah diambil oleh pemerintah dalam melibatkan sektor kesehatan dan pendidikan untuk pencegahan stunting?"
+                "Apa upaya yang diambil oleh pemerintah dalam pencegahan stunting?"
             ],
             "responses": [
                 "Pemerintah memiliki peran sentral dalam mendukung program pencegahan stunting di tingkat nasional. Melalui kebijakan kesehatan yang mendukung gizi anak, pemberian akses pelayanan kesehatan yang terjangkau, dan program edukasi untuk orang tua, pemerintah dapat menciptakan lingkungan yang mendukung pertumbuhan optimal. Kebijakan yang menitikberatkan pada pemenuhan gizi anak dan alokasi anggaran yang memadai dapat memberikan kontribusi signifikan dalam penanggulangan stunting."
@@ -420,9 +420,9 @@
             "patterns": [
                 "Mengapa ketersediaan air bersih berperan penting dalam pencegahan stunting?",
                 "Apa dampak kurangnya akses terhadap air bersih terhadap risiko infeksi dan pertumbuhan anak?",
-                "Bagaimana air bersih dapat menjadi faktor kunci dalam menjaga kebersihan, memasak, dan mencuci makanan dengan aman?",
-                "Apa langkah-langkah yang dapat diambil oleh pemerintah untuk meningkatkan akses terhadap air bersih sebagai upaya pencegahan stunting?",
-                "Mengapa inisiatif masyarakat dalam meningkatkan akses terhadap air bersih dapat berkontribusi secara signifikan dalam pencegahan stunting?"
+                "apa yang terjadi jika akses terhadap air bersih kurang?",
+                "Apa langkah-langkah yang dapat diambil oleh pemerintah untuk meningkatkan akses air bersih?",
+                "Mengapa ketersediaan air bersih mempengeruhi stunting?"
             ],
             "responses": [
                 "Ketersediaan air bersih memegang peran penting dalam pencegahan stunting. Air bersih menjadi faktor kunci dalam menjaga kebersihan, memasak, dan mencuci makanan dengan aman. Kurangnya akses terhadap air bersih dapat meningkatkan risiko infeksi, yang dapat menghambat pertumbuhan anak. Oleh karena itu, upaya untuk meningkatkan akses terhadap air bersih, melalui kebijakan pemerintah dan inisiatif masyarakat, dapat menjadi langkah krusial dalam pencegahan stunting."
@@ -431,9 +431,9 @@
         {
             "tag": "Kesehatan_Mental_Anak",
             "patterns": [
-                "Bagaimana kesehatan mental anak dapat memengaruhi kebiasaan makan dan penyerapan nutrisi, serta bagaimana hal ini berdampak pada pertumbuhan fisik?",
-                "Mengapa dukungan psikologis atau kesehatan mental menjadi kunci dalam mencegah dampak negatif terhadap pertumbuhan anak?",
-                "Bagaimana program pendidikan untuk orang tua dapat membantu mengenali tanda-tanda stres pada anak dan memberikan dukungan yang sesuai?",
+                "Bagaimana kesehatan mental anak dapat berdampak pada pertumbuhan fisik anak?",
+                "Mengapa dukungan kesehatan mental menjadi kunci dalam mencegah dampak negatif terhadap pertumbuhan anak?",
+                "Apakah anak-anak yang mengalami stunting dipengaruhi oleh kesehatan mental?",
                 "Apa strategi yang efektif untuk menjaga kesehatan mental anak sebagai bagian dari upaya pencegahan stunting?"
             ],
             "responses": [
