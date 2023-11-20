@@ -100,8 +100,8 @@
             "tag": "Penyebab_stunting",
             "patterns": [
                 "Faktor penyebab stunting apa saja?",
-                "Apa saja penyebab dari stunting?",
-                "Faktor apa saja yang menyebabkan stunting?",
+                "penyebab dari stunting apa?",
+                "Faktor apa yang menyebabkan stunting?",
                 "Apa faktor penyebab stunting?"
             ],
             "responses": [
