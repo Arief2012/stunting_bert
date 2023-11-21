@@ -184,11 +184,11 @@
             "patterns": [
                 "Apakah stunting memiliki kategori?",
                 "Apa saja kategori stunting?",
-                "apakah terdapat kategori stunting?",
-                "Pembegian kategori stunting apa ada?"
+                "Apakah terdapat kategori stunting?",
+                "Pembagian kategori stunting apa ada?"
             ],
             "responses": [
-                "Berdasarkan Ikatan Dokter Spesialis Anak Indonesia, tidak ada pembagian kategori stunting. Perawakan pendek sendiri merujuk pada status gizi bayi berdasarkan panjang badan menurut umur (PB/U) atau tinggi badan menurut umur (TB/U) pada kurva pertumbuhan WHO. Seorang bayi wajib diukur status gizinya melalui pengukuran berat badan dan penjang/tinggi badan. Dikatakan stunting jika panjang/tinggi badan berdasarkan umur dibawah z-score -2SD pada kurva pertumbuhan dan status gizi yang kurang berdasarkan berat badan."
+                "Menurut Ikatan Dokter Spesialis Anak Indonesia, stunting tidak secara khusus dibagi menjadi kategori. Stunting merujuk pada status gizi bayi berdasarkan panjang badan menurut umur (PB/U) atau tinggi badan menurut umur (TB/U) pada kurva pertumbuhan WHO. Seorang bayi diukur status gizinya dengan mengamati berat badan dan tinggi badannya. Stunting terjadi jika panjang/tinggi badan berdasarkan umur berada di bawah z-score -2SD pada kurva pertumbuhan WHO dan memiliki status gizi kurang berdasarkan berat badan."
             ]
         },
         {
@@ -244,14 +244,18 @@
         {
             "tag": "Peran_Keluarga",
             "patterns": [
-                "Apa peran keluarga dalam mencegah stunting pada anak?",
-                "Bagaimana peran keluarga dapat membantu mencegah stunting?",
-                "Peran orang tua dalam pencegahan stunting anak",
-                "Apa yang harus dilakukan keluarga untuk mencegah stunting?",
+                "peran keluarga dalam mencegah stunting pada anak",
+                "bagaimana peran keluarga dapat membantu mencegah stunting",
+                "peran orang tua dalam pencegahan stunting anak",
+                "yang harus dilakukan keluarga untuk mencegah stunting",
                 "apakah peran keluarga penting dalam membantu mencegah stunting"
             ],
             "responses": [
-                "Keluarga memiliki peran yang sangat penting dalam mencegah stunting pada anak. Mereka dapat membantu dengan memberikan asupan gizi yang seimbang, memastikan akses ke layanan kesehatan yang baik, menciptakan lingkungan yang bersih dan higienis, serta memberikan stimulasi yang baik untuk perkembangan anak. Orang tua perlu memiliki pengetahuan tentang pola asuh yang baik dan mendukung pertumbuhan anak. Dengan melibatkan keluarga dalam upaya pencegahan stunting, dapat memastikan bahwa anak mendapatkan dukungan penuh untuk tumbuh dan berkembang dengan baik."
+                "Keluarga memiliki peran yang sangat penting dalam mencegah stunting pada anak.",
+                "Mereka dapat membantu dengan memberikan asupan gizi yang seimbang.",
+                "Pastikan akses ke layanan kesehatan yang baik, menciptakan lingkungan yang bersih dan higienis.",
+                "Memberikan stimulasi yang baik untuk perkembangan anak.",
+                "Orang tua perlu memiliki pengetahuan tentang pola asuh yang baik dan mendukung pertumbuhan anak."
             ]
         },
         {
