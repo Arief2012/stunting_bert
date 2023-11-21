@@ -41,11 +41,11 @@
                 "Bye"
             ],
             "responses": [
-                "Sampai jumpa lagi. Jangan ragu untuk kembali jika ada pertanyaan tentang stunting",
-                "Sampai jumpa. Semoga informasi yang kami berikan bermanfaat.",
-                "Senang dapat membantu."
+                "Sampai jumpa lagi. Jangan ragu untuk kembali jika ada pertanyaan tentang stunting.",
+                "Selamat tinggal! Jika ada pertanyaan lain, kami di sini untuk membantu.",
+                "Terima kasih telah mengunjungi kami. Sampai jumpa!"
             ]
-        },
+        },        
         {
             "tag": "pengertian_stunting",
             "patterns": [
@@ -68,8 +68,7 @@
                 "Cara mencegah stunting"
             ],
             "responses": [
-                "Anda dapat mencegah stunting pada anak balita dengan memberikan makanan bergizi, perhatian yang cukup terhadap kesehatan dan kebersihan, serta berkonsultasi dengan tenaga medis untuk pemantauan pertumbuhan anak secara teratur.",
-                "Pencegahan stunting melibatkan asupan gizi yang cukup, imunisasi, kebersihan, dan pemantauan pertumbuhan anak secara teratur. Jangan ragu untuk bertanya jika Anda memerlukan informasi lebih lanjut."
+                "Anda dapat mencegah stunting pada anak balita dengan memberikan makanan bergizi, perhatian yang cukup terhadap kesehatan dan kebersihan, serta berkonsultasi dengan tenaga medis untuk pemantauan pertumbuhan anak secara teratur. Jangan ragu untuk bertanya jika Anda memerlukan informasi lebih lanjut."
             ]
         },
         {
