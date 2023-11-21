@@ -159,7 +159,7 @@
         {
             "tag": "Pola_makan",
             "patterns": [
-                "Bagaimana pola makan yang baik dapat membantu mencegah stunting pada anak balita?",
+                "Bagaimana pola dapat membantu mencegah stunting pada anak balita?",
                 "Bagaimana Pola makan yang baik?",
                 "Pola makan untuk mencegah stunting.",
                 "Cara mengatur pola makan?"
@@ -185,7 +185,7 @@
             "patterns": [
                 "Apakah stunting memiliki kategori?",
                 "Apa saja kategori stunting?",
-                "apakah stunting memiliki kategori seperti kategori rendah, sedang, tinggi?",
+                "apakah terdapat kategori stunting?",
                 "Pembegian kategori stunting apa ada?"
             ],
             "responses": [
@@ -224,7 +224,7 @@
                 "Apa pengaruh stunting terhadap perkembangan kognitif pada anak?",
                 "Apakah stunting dapat menyebabkan penurunan nilai kognitif?",
                 "Bagaimana stunting memengaruhi kemampuan kognitif anak dalam belajar?",
-                "Apakah gangguan perkembangan kognitif akibat stunting dapat berlangsung hingga dewasa?"
+                "Apakah gangguan kognitif akibat stunting dapat berlangsung hingga dewasa?"
             ],
             "responses": [
                 "Anak yang mengalami stunting bisa mengalami penurunan 7% pada perkembangan kemampuan berpikir dan belajar dibandingkan dengan anak yang tidak mengalami stunting. Stunting memiliki dampak negatif pada kemampuan anak dalam memahami pelajaran dan dapat menyebabkan penurunan nilai pelajaran. Gangguan perkembangan kognitif yang disebabkan oleh stunting juga bisa berlangsung hingga dewasa. Oleh karena itu, mencegah stunting melalui asupan gizi yang baik, perawatan kesehatan yang baik, dan pertumbuhan yang optimal sangat penting untuk memastikan perkembangan kognitif anak yang sehat. Jika ada pertanyaan lebih lanjut, jangan ragu untuk bertanya."
@@ -294,7 +294,7 @@
             "tag": "Pentingnya_Micronutrien",
             "patterns": [
                 "Apa pentingnya konsumsi micronutrien dalam pencegahan stunting?",
-                "Bagaimana micronutrien seperti vitamin dan mineral mendukung pertumbuhan anak?",
+                "Bagaimana micronutrien dapat mendukung pertumbuhan anak?",
                 "Apa dampak kekurangan vitamin dan mineral terhadap pertumbuhan fisik anak?",
                 "Apakah vitamin dan meneral mempengaruhi pertumbuhan anak?"
             ],
@@ -368,7 +368,7 @@
             "tag": " Peran_Antibodi",
             "patterns": [
                 "Apa peran antibodi dalam pencegahan stunting pada anak?",
-                "Bagaimana antibodi membantu melindungi anak dari infeksi dan gangguan pertumbuhan?",
+                "Bagaimana antibodi membantu melindungi anak dari gangguan pertumbuhan stunting",
                 "Apa dampak kekurangan antibodi terhadap pertumbuhan fisik anak?",
                 "Antibodi kenapa dibutuhkan dalam pencegahan stunting?",
                 "Kegunaan Antibodi buat apa dalam pencegahan stunting? "
@@ -381,7 +381,7 @@
             "tag": "Teknik_Pemberian_Makanan",
             "patterns": [
                 "Bagaimana teknik pemberian makanan yang benar dapat membantu mencegah stunting pada anak?",
-                "Apa saja metode atau teknik pemberian makanan yang efektif untuk memastikan asupan gizi optimal pada anak?",
+                "Apa saja metode pemberian makanan yang efektif untuk asupan gizi optimal pada anak?",
                 "Bagaimana mengatasi anak yang sulit makan dengan menerapkan teknik pemberian makanan yang tepat?",
                 "Apakah variasi dalam menu makanan memiliki peran penting dalam mencegah stunting pada anak?",
                 "Bagaimana mengajarkan orang tua tentang teknik pemberian makanan yang seimbang untuk anak?"
@@ -395,9 +395,9 @@
             "patterns": [
                 "Seberapa penting aktivitas fisik dalam mendukung pertumbuhan anak dan mencegah stunting?",
                 "Apa jenis aktivitas fisik yang disarankan untuk anak-anak guna mencapai pertumbuhan optimal?",
-                "Bagaimana orang tua dapat mengintegrasikan aktivitas fisik dalam kehidupan sehari-hari anak untuk mencegah stunting?",
+                "Bagaimana aktivitas fisik dapat mencegah stunting?",
                 "Apakah terdapat hubungan antara kurangnya aktivitas fisik dan peningkatan risiko stunting pada anak?",
-                "Bagaimana sekolah dan komunitas dapat berperan dalam memotivasi anak untuk berpartisipasi dalam aktivitas fisik?"
+                "Aktivitas fisik dapat meningkatkan stunting?"
             ],
             "responses": [
                 "Aktivitas fisik Berperan penting dalam mendukung pertumbuhan anak dan mencegah stunting. Anak-anak perlu terlibat dalam berbagai jenis aktivitas fisik, seperti bermain lari, bersepeda, atau olahraga ringan, untuk meningkatkan kebugaran fisik dan mengembangkan otot serta tulang. Orang tua dapat berperan penting dengan mengintegrasikan aktivitas fisik ke dalam rutinitas sehari-hari anak. Kurangnya aktivitas fisik dapat meningkatkan risiko stunting, sehingga menjaga keaktifan anak menjadi langkah penting dalam upaya pencegahan."
@@ -408,7 +408,7 @@
             "patterns": [
                 "Apa peran pemerintah dalam mendukung program pencegahan stunting di tingkat nasional?",
                 "Bagaimana kebijakan pemerintah dapat berkontribusi pada penanggulangan stunting?",
-                "Apakah terdapat kebijakan spesifik yang ditetapkan oleh pemerintah untuk meningkatkan gizi anak dan mencegah stunting?",
+                "Apakah terdapat kebijakan yang ditetapkan oleh pemerintah untuk meningkatkan gizi dan mencegah stunting?",
                 "Apa upaya yang diambil oleh pemerintah dalam pencegahan stunting?"
             ],
             "responses": [
